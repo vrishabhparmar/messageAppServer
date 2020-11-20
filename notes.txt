@@ -1,0 +1,18 @@
+# React chat app
+
+# client 
+----- create-react-app chatapp
+----- npm install --save react-router socket.io-client react-scroll-to-botttom react-emoji query-string
+
+
+
+# server
+
+------- npm init -y
+
+------- npm install --save cors nodemon express socket.io
+
+
+
+
+
